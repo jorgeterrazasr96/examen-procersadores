@@ -1,0 +1,7 @@
+¿Qué conjunto de instrucciones (ISA) usa?
+
+¿Qué rango de frecuencias puede generar el oscilador interno?
+8MHz a 31KHz
+
+¿Cuántos bytes de RAM tiene específicamente el PIC16F886?
+368 bytes RAM

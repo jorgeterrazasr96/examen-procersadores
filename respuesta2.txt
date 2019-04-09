@@ -1,0 +1,5 @@
+instruccion fetch (if)
+intruction decode(id)
+read file(RF)
+execution(EX)
+write result(WR)

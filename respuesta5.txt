@@ -1,0 +1,6 @@
+¿Cuál de las siguientes memorias es “no volátil”?
+
+ SRAM
+ DRAM
+X ROM
+ Todas las anteriores
